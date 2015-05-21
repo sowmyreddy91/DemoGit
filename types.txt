@@ -1,0 +1,6 @@
+numberformat exception
+arrayindexoutbound exception
+null pointer exception
+i/o exception
+classnotfound exception
+classcastexception.
