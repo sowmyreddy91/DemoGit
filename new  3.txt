@@ -1,0 +1,11 @@
+Collection
+
+AbstractCollection
+
+AbstractList ------>AbstractCollection,List
+List
+ArrayList--,LinkedList
+
+AbsractSet ---->AbstractCollection
+
+Map---->AbstractCollection
